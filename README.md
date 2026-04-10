@@ -1,14 +1,19 @@
-**Agro 4.0: Modelado y Simulación de procesos agrícolas respecto a cultivos regionales 🚀🌱**
-El siguiente repositorio contiene los modelos numéricos, simulaciones, gráficos y resultados desarrollados bajo el proyecto de ingenieria que valida mi tesis de grado en Ingeniería en Informática. El proyecto aplica técnicas de Inteligencia Artificial, Análisis de Eficiencia (DEA) y Sistemas de Ecuaciones Diferenciales para optimizar la producción de Limón, Poroto y Maíz en la región de las Yungas de la provincia de Jujuy.
+# **Agro 4.0: Modelado y Simulación de procesos agrícolas respecto a cultivos regionales 🚀🌱**  <br>
 
-📂 Estructura del Proyecto
-/models: Scripts de Python con la lógica de simulación y cálculo.
+El siguiente repositorio contiene los modelos numéricos, simulaciones, gráficos y resultados desarrollados bajo el proyecto de ingenieria que valida mi tesis de grado en Ingeniería en Informática. <br>
+El proyecto aplica técnicas de Inteligencia Artificial, Análisis de Eficiencia (DEA) y Sistemas de Ecuaciones Diferenciales para optimizar la producción de Limón, Poroto y Maíz en la región de las Yungas de la provincia de Jujuy.
 
-/data: Conjuntos de datos históricos y parámetros de entrada.
+**📂 Estructura del Proyecto**  
 
-/visualizations: Resultados gráficos de las simulaciones y comparativas de rendimiento.
+- /models: Scripts de Python con la lógica de simulación y cálculo.
 
-📈 Resumen de los Modelos
+- /data: Conjuntos de datos históricos y parámetros de entrada.
+
+- /visualizations: Resultados gráficos de las simulaciones y comparativas de rendimiento.
+
+**📈 Resumen de los Modelos**  
+
+
 1. Simulación de Riesgo Hídrico (Limón) - modelolimon-montecarlo.py
 Análisis de incertidumbre mediante el método de Monte Carlo para evaluar el impacto de tecnologías 4.0 en el consumo de agua.
 
@@ -24,14 +29,16 @@ Sistema de 6 Ecuaciones Diferenciales Ordinarias (EDO) acopladas que simulan la 
 
 Resultado clave: La simulación demostró un incremento estimado del 15% en el rendimiento (kg/ha) mediante el uso de sensores de precisión para el control de variables críticas.
 
-🛠️ Tecnologías Utilizadas
-Python 3.x
+**🛠️ Tecnologías Utilizadas**  
 
-SciPy & NumPy: Resolución de EDOs y optimización lineal.
+- **Python 3.x**
 
-Scikit-Learn: Regresiones polinomiales y métricas de error.
+- **SciPy & NumPy: Resolución de EDOs y optimización lineal.**
 
-Matplotlib & Seaborn: Visualización de datos y mapas de calor.
+- **Scikit-Learn: Regresiones polinomiales y métricas de error.**
 
-Autor: Ingeniero Martín Enrique Méndez
+- **Matplotlib & Seaborn: Visualización de datos y mapas de calor.**  
+
+# **Autor: Ingeniero Martín Enrique Méndez**  
+
 Universidad Católica de Santiago del Estero, Sede San Salvador - UCSE DASS
