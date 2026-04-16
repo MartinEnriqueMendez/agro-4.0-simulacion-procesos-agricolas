@@ -19,15 +19,16 @@ Análisis de incertidumbre mediante el método de Monte Carlo para evaluar el im
 
 Resultado clave: La implementación conjunta de sensores e IA redujo el error cuadrático medio (MSE) de 190,857 a 65,873, logrando una precisión superior al 91% en la gestión de recursos.
 
-2. Eficiencia Productiva (Poroto) - modeloporoto_dea.py <br>
+2. Eficiencia Productiva (Poroto) - modeloporoto-dea.py <br>
 Uso de Data Envelopment Analysis (DEA) y regresiones polinomiales para identificar la frontera de eficiencia en 87 unidades de toma de decisión (DMUs) correspondientes a datos históricos de producciones de poroto.
 
 Resultado clave: Identificación de 54 DMUs eficientes. El modelo detectó una brecha productiva del 38% susceptible de mejora mediante tecnificación.
 
-3. Dinámica de Suelo (Maíz Pisingallo) - modelomaiz_edo.py <br>
-Sistema de 6 Ecuaciones Diferenciales Ordinarias (EDO) acopladas que simulan la interacción entre Nutrición, Temperatura, Humedad, Aireación, pH y Crecimiento.
+3. Dinámica de Suelo (Maíz Pisingallo) - modelomaiz-edo.py <br>
+Sistema de 6 Ecuaciones Diferenciales Ordinarias (EDO) acopladas que simulan la interacción entre Nutrición, Temperatura, Humedad, Aireación, pH bajo condiciones naturales.
+Además se modela el crecimiento de la planta de maiz en un lapso estimado.
 
-Resultado clave: La simulación demostró un incremento estimado del 15% en el rendimiento (kg/ha) mediante el uso de sensores de precisión para el control de variables críticas.
+Resultado clave: La simulación demostró un incremento estimado del 15% en el rendimiento (kg/ha) con intervención de sensores de precisión para el control de variables críticas.
 
 **🛠️ Tecnologías Utilizadas**  
 
@@ -38,6 +39,11 @@ Resultado clave: La simulación demostró un incremento estimado del 15% en el r
 - **Scikit-Learn: Regresiones polinomiales y métricas de error.**
 
 - **Matplotlib & Seaborn: Visualización de datos y mapas de calor.**  
+
+**Por qué es útil este modelado?**
+Porque cumple la tarea de análisis - prueba para facilitar la toma de decisiones inteligente.
+Abre la posibilidad del análisis multivariado para comprender relaciones complejas de la agricultura.
+Y favorece en demostrar que la adopción integral de tecnologias (como la simulación) permite optimizar el rendimiento, la eficiencia en la utilización de recursos y consecuentemente, incrementar la producción.
 
 **Autor: Ingeniero Martín Enrique Méndez**  
 
