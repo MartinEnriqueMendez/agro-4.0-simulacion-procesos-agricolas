@@ -40,10 +40,10 @@ Resultado clave: La simulación demostró un incremento estimado del 15% en el r
 
 - **Matplotlib & Seaborn: Visualización de datos y mapas de calor.**  
 
-**Por qué es útil este modelado?**
-Porque cumple la tarea de análisis - prueba para facilitar la toma de decisiones inteligente.
-Abre la posibilidad del análisis multivariado para comprender relaciones complejas de la agricultura.
-Y favorece en demostrar que la adopción integral de tecnologias (como la simulación) permite optimizar el rendimiento, la eficiencia en la utilización de recursos y consecuentemente, incrementar la producción.
+**Por qué es útil este modelado?**  
+- Porque cumple la tarea de análisis - prueba para facilitar la toma de decisiones inteligente.
+- Abre la posibilidad del análisis multivariado para comprender relaciones complejas de la agricultura.
+- Y favorece en demostrar que la adopción integral de tecnologias (como la simulación) permite optimizar el rendimiento, la eficiencia en la utilización de recursos y consecuentemente, incrementar la producción.
 
 **Autor: Ingeniero Martín Enrique Méndez**  
 
