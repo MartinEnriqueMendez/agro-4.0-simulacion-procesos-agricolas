@@ -42,8 +42,8 @@ Resultado clave: La simulación demostró un incremento estimado del 15% en el r
 
 **Por qué es útil este modelado?**  
 - Porque cumple la tarea de análisis - prueba para facilitar la toma de decisiones inteligente.
-- Abre la posibilidad del análisis multivariado para comprender relaciones complejas de la agricultura.
-- Y favorece en demostrar que la adopción integral de tecnologias (como la simulación) permite optimizar el rendimiento, la eficiencia en la utilización de recursos y consecuentemente, incrementar la producción.
+- Porque abre la posibilidad del análisis multivariado para comprender relaciones complejas de la agricultura.
+- Porque favorece en demostrar que la adopción integral de tecnologias (como la simulación) permite optimizar el rendimiento, la eficiencia en la utilización de recursos y consecuentemente, mejorar variables en las producciones.
 
 **Autor: Ingeniero Martín Enrique Méndez**  
 
