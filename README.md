@@ -24,7 +24,7 @@ Uso de Data Envelopment Analysis (DEA) y regresiones polinomiales para identific
 
 Resultado clave: Identificación de 54 DMUs eficientes. El modelo detectó una brecha productiva del 38% susceptible de mejora mediante tecnificación.
 
-3. Dinámica de Suelo (Maíz Pisingallo) - modelomaiz-edo.py <br>
+3. Dinámica de Suelo (Maíz tipo Pisingallo) - modelomaiz-edo.py <br>
 Sistema de 6 Ecuaciones Diferenciales Ordinarias (EDO) acopladas que simulan la interacción entre Nutrición, Temperatura, Humedad, Aireación, pH bajo condiciones naturales.
 Además se modela el crecimiento de la planta de maiz en un lapso estimado.
 
@@ -43,8 +43,8 @@ Resultado clave: La simulación demostró un incremento estimado del 15% en el r
 **Por qué es útil este modelado?**  
 - Porque cumple la tarea de análisis - prueba para facilitar la toma de decisiones inteligente.
 - Porque abre la posibilidad del análisis multivariado para comprender relaciones complejas de la agricultura.
-- Porque favorece en demostrar que la adopción integral de tecnologias (como la simulación) permite optimizar el rendimiento, la eficiencia en la utilización de recursos y consecuentemente, mejorar variables en las producciones.
+- Porque favorece en demostrar que la adopción integral de tecnologias (como la simulación) permite optimizar el rendimiento, la eficiencia en la utilización de recursos y consecuentemente, mejorar resultados en las producciones.
 
 **Autor: Ingeniero Martín Enrique Méndez**  
 
-Universidad Católica de Santiago del Estero, Sede San Salvador - *UCSE DASS*
+Universidad Católica de Santiago del Estero, Sede San Salvador de Jujuy - *UCSE DASS*
